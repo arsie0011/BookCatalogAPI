@@ -1,0 +1,12 @@
+C:\Users\arsie\source\repos\BookCatalog\BookCatalog.Data\bin\Debug\netcoreapp2.1\BookCatalog.Data.deps.json
+C:\Users\arsie\source\repos\BookCatalog\BookCatalog.Data\bin\Debug\netcoreapp2.1\BookCatalog.Data.dll
+C:\Users\arsie\source\repos\BookCatalog\BookCatalog.Data\bin\Debug\netcoreapp2.1\BookCatalog.Data.pdb
+C:\Users\arsie\source\repos\BookCatalog\BookCatalog.Data\bin\Debug\netcoreapp2.1\BookCatalog.Model.dll
+C:\Users\arsie\source\repos\BookCatalog\BookCatalog.Data\bin\Debug\netcoreapp2.1\BookCatalog.Model.pdb
+C:\Users\arsie\source\repos\BookCatalog\BookCatalog.Data\obj\Debug\netcoreapp2.1\BookCatalog.Data.csprojAssemblyReference.cache
+C:\Users\arsie\source\repos\BookCatalog\BookCatalog.Data\obj\Debug\netcoreapp2.1\BookCatalog.Data.csproj.CoreCompileInputs.cache
+C:\Users\arsie\source\repos\BookCatalog\BookCatalog.Data\obj\Debug\netcoreapp2.1\BookCatalog.Data.AssemblyInfoInputs.cache
+C:\Users\arsie\source\repos\BookCatalog\BookCatalog.Data\obj\Debug\netcoreapp2.1\BookCatalog.Data.AssemblyInfo.cs
+C:\Users\arsie\source\repos\BookCatalog\BookCatalog.Data\obj\Debug\netcoreapp2.1\BookCatalog.Data.csproj.CopyComplete
+C:\Users\arsie\source\repos\BookCatalog\BookCatalog.Data\obj\Debug\netcoreapp2.1\BookCatalog.Data.dll
+C:\Users\arsie\source\repos\BookCatalog\BookCatalog.Data\obj\Debug\netcoreapp2.1\BookCatalog.Data.pdb

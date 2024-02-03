@@ -1,0 +1,9 @@
+C:\Users\arsie\source\repos\BookCatalog\BookCatalog.Model\bin\Debug\netcoreapp2.1\BookCatalog.Model.deps.json
+C:\Users\arsie\source\repos\BookCatalog\BookCatalog.Model\bin\Debug\netcoreapp2.1\BookCatalog.Model.dll
+C:\Users\arsie\source\repos\BookCatalog\BookCatalog.Model\bin\Debug\netcoreapp2.1\BookCatalog.Model.pdb
+C:\Users\arsie\source\repos\BookCatalog\BookCatalog.Model\obj\Debug\netcoreapp2.1\BookCatalog.Model.csprojAssemblyReference.cache
+C:\Users\arsie\source\repos\BookCatalog\BookCatalog.Model\obj\Debug\netcoreapp2.1\BookCatalog.Model.csproj.CoreCompileInputs.cache
+C:\Users\arsie\source\repos\BookCatalog\BookCatalog.Model\obj\Debug\netcoreapp2.1\BookCatalog.Model.AssemblyInfoInputs.cache
+C:\Users\arsie\source\repos\BookCatalog\BookCatalog.Model\obj\Debug\netcoreapp2.1\BookCatalog.Model.AssemblyInfo.cs
+C:\Users\arsie\source\repos\BookCatalog\BookCatalog.Model\obj\Debug\netcoreapp2.1\BookCatalog.Model.dll
+C:\Users\arsie\source\repos\BookCatalog\BookCatalog.Model\obj\Debug\netcoreapp2.1\BookCatalog.Model.pdb
