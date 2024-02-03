@@ -1,0 +1,9 @@
+C:\Users\arsie\source\repos\BookCatalog\BookCatalog.Service.DTO\bin\Debug\netcoreapp2.1\BookCatalog.Service.DTO.deps.json
+C:\Users\arsie\source\repos\BookCatalog\BookCatalog.Service.DTO\bin\Debug\netcoreapp2.1\BookCatalog.Service.DTO.dll
+C:\Users\arsie\source\repos\BookCatalog\BookCatalog.Service.DTO\bin\Debug\netcoreapp2.1\BookCatalog.Service.DTO.pdb
+C:\Users\arsie\source\repos\BookCatalog\BookCatalog.Service.DTO\obj\Debug\netcoreapp2.1\BookCatalog.Service.DTO.csprojAssemblyReference.cache
+C:\Users\arsie\source\repos\BookCatalog\BookCatalog.Service.DTO\obj\Debug\netcoreapp2.1\BookCatalog.Service.DTO.csproj.CoreCompileInputs.cache
+C:\Users\arsie\source\repos\BookCatalog\BookCatalog.Service.DTO\obj\Debug\netcoreapp2.1\BookCatalog.Service.DTO.AssemblyInfoInputs.cache
+C:\Users\arsie\source\repos\BookCatalog\BookCatalog.Service.DTO\obj\Debug\netcoreapp2.1\BookCatalog.Service.DTO.AssemblyInfo.cs
+C:\Users\arsie\source\repos\BookCatalog\BookCatalog.Service.DTO\obj\Debug\netcoreapp2.1\BookCatalog.Service.DTO.dll
+C:\Users\arsie\source\repos\BookCatalog\BookCatalog.Service.DTO\obj\Debug\netcoreapp2.1\BookCatalog.Service.DTO.pdb
